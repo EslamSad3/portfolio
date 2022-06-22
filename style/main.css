@@ -51,7 +51,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background:url(https://images.unsplash.com/photo-1605379399642-870262d3d051) no-repeat;
+    background:url(https://images.unsplash.com/photo-1518773553398-650c184e0bb3) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -241,7 +241,7 @@ span {
 }
 
 .contact .info p {
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 .footer {
